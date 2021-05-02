@@ -1,0 +1,4 @@
+<resources>
+	<string name="app_name">SampleCompose</string>
+	<string name="greetings">Hello</string>
+</resources>
